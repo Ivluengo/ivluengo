@@ -13,7 +13,7 @@ The fact that I'm so curious makes me, at the same time, very decisive. If there
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ivluengo&label=Profile%20views&color=1ce9a4&style=flat-square" alt="ivluengo" /> </p>
 
-<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=ivluengo&theme=discord&rank=-?,-C&column=3&margin-w=5&margin-h=5&border_color=6e7781" alt="ivluengo" /></a> </p>
+<p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=ivluengo&theme=dracula&rank=-?,-C&column=3&margin-w=5&margin-h=5&border_color=6e7781" alt="ivluengo" /></a> </p>
 
 <br>
 <h3 align="center">Languages 🉐 and Tools 🛠: </h3>

@@ -13,17 +13,6 @@ The fact that I'm so curious makes me, at the same time, very decisive. If there
 <p align="center" ><img src="https://github-profile-trophy.vercel.app/?username=ivluengo&theme=discord&rank=-?,-C&column=3&margin-w=5&margin-h=5&border_color=6e7781" alt="ivluengo" /></a> </p>
 
 <br>
-<h3 align="center">Connect with me: 💌</h3>
-
-<div align="center">
-
-<a href="https://linkedin.com/in/ivluengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivluengo" height="30" width="40" /></a>
-<a href="https://instagram.com/ivan_luengo_creations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan_luengo_creations" height="30" width="40" /></a>
-<a href="https://dribbble.com/ivluengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ivluengo" height="30" width="40" /></a>
-<a href="https://www.behance.net/ivluengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ivluengo" height="30" width="40" /></a>
-</div>
-
-<br>
 <h3 align="center">Languages 🉐 and Tools 🛠: </h3>
 
 <div align="center"> 
@@ -54,4 +43,15 @@ The fact that I'm so curious makes me, at the same time, very decisive. If there
 <br>
 <div align="center">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivluengo&show_icons=true&locale=en&layout=compact&theme=dracula&border_color=6e7781" alt="ivluengo" /></p>
+</div>
+
+<br>
+<h3 align="center">Connect with me: 💌</h3>
+
+<div align="center">
+
+<a href="https://linkedin.com/in/ivluengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivluengo" height="30" width="40" /></a>
+<a href="https://instagram.com/ivan_luengo_creations" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ivan_luengo_creations" height="30" width="40" /></a>
+<a href="https://dribbble.com/ivluengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="ivluengo" height="30" width="40" /></a>
+<a href="https://www.behance.net/ivluengo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ivluengo" height="30" width="40" /></a>
 </div>

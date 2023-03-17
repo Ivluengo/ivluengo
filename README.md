@@ -1,5 +1,8 @@
 <h1 align="center">Hi, my name is Ivan Luengo! 💪</h1>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/10440026/225970101-de8cc255-f757-4fcc-863b-2fd05202a925.gif" alt="Gif de Monkey island">
+</div>
 <h3 align="center">A Front-End teacher 👨‍🏫 and developer 👨‍💻 from Barcelona 🏖, Spain 💃.</h3>
 <p>I am an absolutely curious, creative person, who likes to always be up to date with all the technological advances that exist. I have always liked to know how things work 🔧, and if not, I get it myself, I search for it until I find the answer ⛏. From disassembling computers when I was little 👶, to solving a design problem by doing thousands of tests 😵. This has been my path for as long as I can remember. My focus is to learn as many new tools as I can, so I can stay up to date on everything.
 

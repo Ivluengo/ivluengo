@@ -3,7 +3,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/10440026/225970101-de8cc255-f757-4fcc-863b-2fd05202a925.gif" alt="Gif de Monkey island">
 </div>
-<h3 align="center">A Front-End teacher 👨‍🏫 and developer 👨‍💻 from Barcelona 🏖, Spain 💃.</h3>
+<h3 align="center">A Full-Stack teacher 👨‍🏫 and developer 👨‍💻 from Barcelona 🏖, Spain 💃.</h3>
 <p>I am an absolutely curious, creative person, who likes to always be up to date with all the technological advances that exist. I have always liked to know how things work 🔧, and if not, I get it myself, I search for it until I find the answer ⛏. From disassembling computers when I was little 👶, to solving a design problem by doing thousands of tests 😵. This has been my path for as long as I can remember. My focus is to learn as many new tools as I can, so I can stay up to date on everything.
 
 I am a completely self-taught 📚 person and I consider it one of the best ways to learn if one is curious, organized, and persistent. I am very active, enterprising, and eager to create new things 🧪. Furthermore, I have always been told that my talent, virtue, or vocation is to help others 🆘, which is innate to me 👩‍🚒. Helping more people to create their own projects is what makes me happiest of all 🤗, that's why lately I've been dedicating myself to teach. The others win 🏆, and so do I 🏆🏆.
